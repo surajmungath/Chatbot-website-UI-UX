@@ -1,2 +1,2 @@
 # Chatbot-website-UI-UX
-figma 
+Using Figma create UI for chatbot website 
